@@ -6,7 +6,11 @@
 
 &nbsp;
 
-[$\bf{🖼️ 작품 전시회 : **Meet *the* David** – 동근을 만나다.}$](https://bulletprooves.github.io/myMiniHomeP/html/myPortfolio.html)
+##$\bf{🖼️ 작품 전시회 : **Meet *the* David** – 동근을 만나다.}$
+
+&nbsp;
+
+[**Meet *the* David** – 동근을 만나다.](https://bulletprooves.github.io/myMiniHomeP/html/myPortfolio.html)
 
 $\it{\small{☝ 클릭 to 이동}}$
 
