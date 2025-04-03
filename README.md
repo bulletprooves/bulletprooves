@@ -2,7 +2,7 @@
 
 > 코드로 가득한 깃허브, 이 페이지에 조용히 여백을 남깁니다.
 
-[🖼️ 작품 전시회 : **Meet *the* David** – 동근을 만나다.]
+[🖼️ 작품 전시회 : **Meet *the* David** – 동근을 만나다.](https://bulletprooves.github.io/myMiniHomeP/html/myPortfolio.html)
 
 온라인 전시관 | 2024.12.25 - 2025.12.25
 
