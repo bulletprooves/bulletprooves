@@ -7,7 +7,8 @@
 &nbsp;
 
 [🖼️ 작품 전시회 : **Meet *the* David** – 동근을 만나다.](https://bulletprooves.github.io/myMiniHomeP/html/myPortfolio.html)
-$\it{\large{<- 클릭}}$
+
+$\it{\large{\☝ 클릭}$
 
 &nbsp;
 
