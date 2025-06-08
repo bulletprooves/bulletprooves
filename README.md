@@ -1,4 +1,4 @@
-## Game Client Programmer 👋
+![image](https://github.com/user-attachments/assets/aa0ae96c-0592-4aed-87f7-5282bd15ed9e)## Game Client Programmer 👋
 
 &nbsp;
 
@@ -20,7 +20,10 @@ $\it{\small{☝ 클릭 to 이동}}$
 
 &nbsp;
 
-&nbsp;
+![image](https://github.com/user-attachments/assets/9d6e570d-9e73-49c9-b269-c10e8ba41b3a)
+![image](https://github.com/user-attachments/assets/ba04fefd-8102-4074-9fd8-52ddbb344b9a)
+
+
 
 ---
 
