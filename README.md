@@ -4,7 +4,7 @@
 
 
 ![C#](https://img.shields.io/badge/csharp-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%FBFBFB00.svg?style=for-the-badge&logo=Unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23512BD4.svg?style=for-the-badge&logo=Unity&logoColor=white)
 
 &nbsp;
 
