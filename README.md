@@ -2,6 +2,11 @@
 
 &nbsp;
 
+<img alt="C#" src ="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+
+&nbsp;
+
 ![bgPirateMarine](https://github.com/user-attachments/assets/ab277970-872a-4d92-a937-bee8c6a67cd4)
 
 &nbsp;
