@@ -2,8 +2,11 @@
 
 &nbsp;
 
-![C#](https://img.shields.io/badge/csharp-8e44ad.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-2c3e50.svg?style=for-the-badge&logo=Unity&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-8e44ad.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C]("https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white")
+![C++]("https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white")
+![Blender]("https://img.shields.io/badge/blender-00599C.svg?&style=for-the-badge&logo=blender&logoColor=white")
 
 &nbsp;
 
