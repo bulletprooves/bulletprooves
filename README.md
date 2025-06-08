@@ -5,7 +5,7 @@
 ![Unity](https://img.shields.io/badge/Unity-2c3e50.svg?style=for-the-badge&logo=Unity&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-8e44ad.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-2980b9.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-e67e22.svg?&style=for-the-badge&logo=blender&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white)
 
 &nbsp;
 
