@@ -2,9 +2,15 @@
 
 &nbsp;
 
+about Daivd_동근 :#009BD5
+[![HomePage](https://img.shields.io/badge/homepage-009bd5.svg?style=for-the-badge&logo=homepage&logoColor=white)(https://bulletprooves.github.io/myMiniHomeP/html/myPortfolio.html)]
+[![blog](https://img.shields.io/badge/tistory-33dbca.svg?style=for-the-badge&logo=tistory&logoColor=white)(https://bulletprooves.tistory.com/)]
+[![YouTube](https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)(https://www.youtube.com/@bulletprooves)]
+
+skills : 
 ![Unity](https://img.shields.io/badge/Unity-2c3e50.svg?style=for-the-badge&logo=Unity&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-8e44ad.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-2980b9.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-#00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white)
 
 &nbsp;
