@@ -2,7 +2,7 @@
 
 &nbsp;
 
-<img alt="C#" src ="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
+![C#](https://img.shields.io/badge/csharp-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
 
 &nbsp;
