@@ -15,11 +15,13 @@
 
 &nbsp;
 
-![bgPirateMarine](https://github.com/user-attachments/assets/ab277970-872a-4d92-a937-bee8c6a67cd4)
+---
+
+🖼️ $\bf{\huge{작품\ 전시회\ :\ Meet\ (the)\ David\ –\ 동근을\ 만나다.}}$
 
 &nbsp;
 
-🖼️ $\bf{\huge{작품\ 전시회\ :\ Meet\ (the)\ David\ –\ 동근을\ 만나다.}}$
+![bgPirateMarine](https://github.com/user-attachments/assets/ab277970-872a-4d92-a937-bee8c6a67cd4)
 
 &nbsp;
 
