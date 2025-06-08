@@ -1,13 +1,13 @@
 ## Game Client Programmer 👋
 
-&nbsp;
+### about Daivd_동근
 
-about Daivd_동근 : 
 [![HomePage](https://img.shields.io/badge/homepage-009bd5.svg?style=for-the-badge&logo=homepage&logoColor=white)](https://bulletprooves.github.io/myMiniHomeP/html/myPortfolio.html)
 [![blog](https://img.shields.io/badge/tistory-33dbca.svg?style=for-the-badge&logo=tistory&logoColor=white)](https://bulletprooves.tistory.com/)
 [![YouTube](https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bulletprooves)
 
-skills : 
+### skills
+
 ![Unity](https://img.shields.io/badge/Unity-2c3e50.svg?style=for-the-badge&logo=Unity&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-8e44ad.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
