@@ -2,8 +2,8 @@
 
 &nbsp;
 
-![C#](https://img.shields.io/badge/Csharp-%9850f5.svg?style=for-the-badge&logo=csharp&logoColor=white)
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+![C#](https://img.shields.io/badge/Csharp-%9850f5ff.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 &nbsp;
 
