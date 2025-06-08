@@ -2,7 +2,7 @@
 
 &nbsp;
 
-![C#](https://img.shields.io/badge/csharp-2c3e50.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-8e44ad.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-2c3e50.svg?style=for-the-badge&logo=Unity&logoColor=white)
 
 &nbsp;
