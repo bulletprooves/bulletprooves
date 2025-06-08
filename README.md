@@ -20,10 +20,6 @@ $\it{\small{☝ 클릭 to 이동}}$
 
 &nbsp;
 
-[image](https://github.com/user-attachments/assets/ba0af4c7-2b9a-48f7-b02b-b67af101743d)[image](https://github.com/user-attachments/assets/1d8d4cdc-148d-4a33-8288-ffc02b0b599b)
-
-
-
 ---
 
 &nbsp;
