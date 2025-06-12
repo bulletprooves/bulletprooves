@@ -51,6 +51,7 @@ $\it{\small{☝ 클릭 to 이동}}$
 > 코드로 가득한 깃허브, 이 페이지에 조용히 여백을 남깁니다.
 >
 May this small pause bring a quiet trace of warmth to someone who stumbles upon this page.
+
 In a GitHub filled with lines of code, I quietly leave a moment of stillness behind.
 
 &nbsp;
