@@ -1,6 +1,5 @@
 ## Game Client Programmer 👋
 I hope you have a brilliant day!
-Your smile makes the world a bit Shinier ㅋㅋ, and that makes me happy too.
 
 ### About me
 
