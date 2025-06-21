@@ -1,5 +1,4 @@
 ## Game Client Programmer 👋
-I hope you have a brilliant day!
 
 ### About me
 
