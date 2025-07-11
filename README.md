@@ -1,4 +1,5 @@
 ## Game Client Programmer 👋🦈
+현직 게임 클라이언트 프로그래머
 
 ### About me
 
