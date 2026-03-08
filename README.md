@@ -14,6 +14,12 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white)
 
+### Certificate
+
+정보처리기사
+한국산업인력공단(HRD Korea)
+발행: 2025년 6월
+
 ---
 
 🖼️ $\bf{\huge{작품\ 전시회\ :\ Meet\ (the)\ David\ –\ 동근을\ 만나다.}}$
