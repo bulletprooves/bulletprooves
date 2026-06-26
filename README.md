@@ -1,5 +1,5 @@
-## Programmer 👋🦈
-### 프로그래머
+## Client (Game) Programmer 👋🦈
+### 클라이언트 (게임) 프로그래머
 
 ### About me
 
@@ -12,6 +12,9 @@
 ![Unity](https://img.shields.io/badge/Unity-2c3e50.svg?style=for-the-badge&logo=Unity&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-8e44ad.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-e34f26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1672b7.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Blender](https://img.shields.io/badge/blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white)
 
 ### Certificate
@@ -24,13 +27,15 @@
 
 Project Exhibition
 
+Donggeun - Van - David
+
 &nbsp;
 
 [![bgPirateMarine](https://github.com/user-attachments/assets/ab277970-872a-4d92-a937-bee8c6a67cd4)](https://bulletprooves.github.io/myMiniHomeP/html/myPortfolio.html)
 
 &nbsp;
 
-온라인 전시관 | 2024.12.25 - 2025.12.25
+온라인 전시관 | 2026.06.26 - 2030.01.01
 
 Online Exhibition Period
 
