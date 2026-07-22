@@ -31,7 +31,7 @@ Donggeun - Van - David
 
 &nbsp;
 
-[![bgPirateMarine](https://github.com/user-attachments/assets/ab277970-872a-4d92-a937-bee8c6a67cd4)](https://bulletprooves.github.io/myMiniHomeP/html/myPortfolio.html)
+[![bgPirateMarine](https://github.com/user-attachments/assets/ab277970-872a-4d92-a937-bee8c6a67cd4)](www.bulletprooves.com)
 
 &nbsp;
 
@@ -41,7 +41,7 @@ Online Exhibition Period
 
 &nbsp;
 
-###[**Meet *the* David** – 동근을 만나다.](https://bulletprooves.github.io/myMiniHomeP/html/myPortfolio.html)
+###[**Meet *the* David** – 동근을 만나다.](www.bulletprooves.com)
 
 $\it{\small{☝ 클릭 to 이동}}$
 
