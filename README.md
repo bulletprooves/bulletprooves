@@ -1,6 +1,10 @@
 ## Client (Game) Programmer 👋🦈
 ### 클라이언트 (게임) 프로그래머
 
+
+###[www.bulletprooves.com](https://bulletprooves.com/)
+
+
 ### About me
 
 [![HomePage](https://img.shields.io/badge/homepage-009bd5.svg?style=for-the-badge&logo=homepage&logoColor=white)](https://bulletprooves.github.io/myMiniHomeP/html/myPortfolio.html)
@@ -40,8 +44,6 @@ Donggeun - Van - David
 Online Exhibition Period
 
 &nbsp;
-
-###[**Meet *the* David** – 동근을 만나다.](https://bulletprooves.com/)
 
 $\it{\small{☝ 클릭 to 이동}}$
 
