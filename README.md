@@ -7,7 +7,7 @@
 
 ### About me
 
-[![HomePage](https://img.shields.io/badge/homepage-009bd5.svg?style=for-the-badge&logo=homepage&logoColor=white)](https://bulletprooves.github.io/myMiniHomeP/html/myPortfolio.html)
+[![HomePage](https://img.shields.io/badge/homepage-009bd5.svg?style=for-the-badge&logo=homepage&logoColor=white)](https://bulletprooves.com/)
 [![blog](https://img.shields.io/badge/tistory-2ecc71.svg?style=for-the-badge&logo=tistory&logoColor=white)](https://bulletprooves.tistory.com/)
 [![YouTube](https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bulletprooves)
 
